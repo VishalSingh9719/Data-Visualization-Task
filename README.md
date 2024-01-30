@@ -27,6 +27,11 @@ HTML
 CSS
 
 
+## Screenshots
+
+![App Screenshot](https://github.com/VishalSingh9719/Data-Visualization-Task/assets/87423201/e6ecce25-16e2-4ba3-8ccd-03ec3061db95)
+
+
 ## Some of the snaps from the app
 
 I want to take this opportunity to thank you for visiting here.
